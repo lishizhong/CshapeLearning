@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLRvia01", "CLRvia01\CLRvia01.csproj", "{4B0DCA65-EFCD-4D23-ABE4-3A112BD5D389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLRvia01Tests", "CLRvia01Tests\CLRvia01Tests.csproj", "{4AD2DB93-D432-43C1-A2F2-2C75A0468261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0DCA65-EFCD-4D23-ABE4-3A112BD5D389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0DCA65-EFCD-4D23-ABE4-3A112BD5D389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0DCA65-EFCD-4D23-ABE4-3A112BD5D389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0DCA65-EFCD-4D23-ABE4-3A112BD5D389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD2DB93-D432-43C1-A2F2-2C75A0468261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD2DB93-D432-43C1-A2F2-2C75A0468261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD2DB93-D432-43C1-A2F2-2C75A0468261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD2DB93-D432-43C1-A2F2-2C75A0468261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
